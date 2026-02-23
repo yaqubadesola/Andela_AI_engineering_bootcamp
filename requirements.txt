@@ -1,0 +1,7 @@
+google-api-python-client
+pandas
+nltk
+openai
+scikit-learn
+ollama
+python-dotenv
